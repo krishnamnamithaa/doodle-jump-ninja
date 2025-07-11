@@ -12,7 +12,7 @@ Netlify Backup 👉 [https://doodlejumpegame.netlify.app](https://doodlejumpegam
 
 ## 🎥 Demo Video by *Krishnam Namithaa*
 Watch gameplay and features here:  
-[Google Drive - Gameplay Video](https://drive.google.com/drive/folders/1ZgfImjmI_SVpf-jyKJjqtA8JttwI4WMx?usp=sharing)
+[Google Drive - Gameplay Video](https://drive.google.com/file/d/1vKhS_X0TPmr1BSc2RyMREaEkRHYD5RU5/view?usp=sharing)
 
 ---
 
@@ -61,5 +61,5 @@ Watch gameplay and features here:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd doodle-jump
+git clone https://github.com/krishnamnamithaa/doodle-jump-ninja.git
+cd doodle-jump-ninja
